@@ -1,0 +1,23 @@
+{
+  "name": "1-12-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristianss27/ProgressiveWebApp.git"
+  },
+  "author": "cristian sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristianss27/ProgressiveWebApp/issues"
+  },
+  "homepage": "https://github.com/kristianss27/ProgressiveWebApp#readme",
+  "dependencies": {
+    "localforage": "^1.5.5",
+    "require": "^2.4.20"
+  }
+}
